@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">RssReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_prova_parser">RssReader</string>
+    <color name="red">#ffff00</color>
+    <color name="black">#000000</color>
+
+</resources>
